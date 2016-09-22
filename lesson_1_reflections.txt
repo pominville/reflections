@@ -1,0 +1,30 @@
+1)
+easy comparing of extracts of the versions
+no distraction through unchanged text
+
+2)
+if bad changes were introducted one could go back to fetch the original version
+in the end one could learn which wrong ways one chose throughout creating a software
+
+3)
+pro: 
+logical commits introduced
+history easier to understand
+
+con:
+inconsistent
+you could lose code
+different practices in teams
+
+4)
+multiple save is good to have all files together representing a piece of software at a certain point of time
+
+g-docs saves only a growing document, interdependencies between docs usual
+
+5)
+git log gives a good overview of all the commits
+with git diff I can really compare the changes that where made between two commits
+
+6) 
+if you break something you can easily go back to your previous version and the code is still clean, i.e. without the need to change something back
+
