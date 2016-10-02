@@ -13,6 +13,8 @@ it helps to see which commits were done after the branching, it may help for mer
 5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 changes done in one branch are added to the master; there is always a master that receives the changes of the branch
 
-
+6) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic is good for saving time
+manual is necessary for resolving conflicts, if you do all manually, it kills time; however it would still give you some code review
 
 
