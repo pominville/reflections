@@ -1,3 +1,18 @@
 1) What happens when you initialize a repository? Why do you need to do it?
 a hidden folder called .git is created which contains all the files needed to make the folder a git repository
 
+2) How can you use the staging area to make sure you have one commit per logical change?
+You can work on different files on changes that belong together, put every change into the staging area; if you find another problem in a file that is unrelated, put it directly to commit and leave the others in the staging area
+
+3) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Different version of the software (language, modes etc.), try out some new feature
+
+4) How do the diagrams help you visualize the branch structure?
+it helps to see which commits were done after the branching, it may help for merging, to see what commits will be put together
+
+5) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+changes done in one branch are added to the master; there is always a master that receives the changes of the branch
+
+
+
+
